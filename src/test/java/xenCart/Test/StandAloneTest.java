@@ -18,7 +18,7 @@ import org.testng.Assert;
 public class StandAloneTest {
 
 	public static void main(String[] args) {
-
+     //New Comments are Added for demo CICD Test Purpose
 		String productName = "ZARA COAT 3";
 
 		WebDriverManager.chromedriver().setup();
